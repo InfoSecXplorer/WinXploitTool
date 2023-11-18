@@ -40,6 +40,15 @@ For a detailed walkthrough, watch the [WinXploitTool Tutorial Video](#).
 ## Support
 If you encounter any issues or have questions, feel free to open an [issue](https://github.com/InfoSecXplorer/WinXploitTool/issues) or join the discussion on [Discord](https://discord.gg/4xB4PebCTJ).
 
+## Stay Connected
+📧 **Email:** infosecxplorer@gmail.com  
+📺 **YouTube Channel:** [InfoSecXplorer](https://www.youtube.com/@InfoSecXplorer)  
+💬 **Discord:** [Join the Conversation](https://discord.gg/4xB4PebCTJ)  
+📷 **Instagram:** [Follow on Instagram](https://www.instagram.com/infosecxplorer)  
+👨‍💻 **GitHub:** [GitHub Repository](https://github.com/InfoSecXplorer)  
+🌐 **Website:** [Visit Our Website](https://infosecxplorer.netlify.app)  
+📢 **Telegram:** [InfoSecXplorer Channel](https://t.me/info_sec_xplorer)  
+
 ## Contribution
 Contributions are welcome! If you have improvements or additional features, submit a pull request.
 
