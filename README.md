@@ -32,7 +32,7 @@ This repository contains the Python code used in the tutorial video, showcasing 
 8. Run the executable on the victim machine.
 9. Optionally, refer to the code in `startup.py` for adding the executable to system startup.
 
-For a detailed walkthrough, watch the [WinXploitTool Tutorial Video](#).
+For a detailed walkthrough, watch the [WinXploitTool Tutorial Video](https://youtu.be/89j0qlGrhuY).
 
 ## Reference Links
 - [Windows Hacking Playlist](https://www.youtube.com/playlist?list=PLe5OeI2tORJkpr5H2tzXBMGdYeth-oW-p)
